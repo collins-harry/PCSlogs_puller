@@ -1,0 +1,5 @@
+Examples taken from
+
+https://github.com/joeybrennan/Python-UI-Projects/tree/master/ZipFileViewer
+
+joeybrennan/Python-UI-Projects
