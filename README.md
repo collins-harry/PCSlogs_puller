@@ -1,4 +1,4 @@
-# auto_script.py
+# PCSlogs_script.py
 Python script compiled to exe to auto pull zipped csv files and process them
 
 ```{bash}
